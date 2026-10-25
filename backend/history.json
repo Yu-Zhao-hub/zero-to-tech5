@@ -1,0 +1,30 @@
+[
+  {
+    "text": "橹穆星途璀璨",
+    "score": 0.84,
+    "label": "偏积极",
+    "pinyin": "lǔ mù xīng tú cuǐ càn",
+    "created_at": "2026-10-24T13:01:00+00:00"
+  },
+  {
+    "text": "橹穆久久",
+    "score": 0.69,
+    "label": "偏积极",
+    "pinyin": "lǔ mù jiǔ jiǔ",
+    "created_at": "2026-10-24T13:01:45+00:00"
+  },
+  {
+    "text": "问世间情为何物，杰丞豚馒与橹穆",
+    "score": 1.0,
+    "label": "偏积极",
+    "pinyin": "wèn shì jiān qíng wèi hé wù ， jié chéng tún mán yǔ lǔ mù",
+    "created_at": "2026-10-24T13:05:13+00:00"
+  },
+  {
+    "text": "今天天气真好",
+    "score": 0.46,
+    "label": "中性",
+    "pinyin": "jīn tiān tiān qì zhēn hǎo",
+    "created_at": "2026-10-25T08:02:51+00:00"
+  }
+]
